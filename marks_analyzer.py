@@ -20,6 +20,6 @@ for q, ans in questions:
         print("Correct ✅\n")
         score += 1
     else:
-        print("Wrong ❌\n")
+        print(" you enetered wrong answer \n")
 
 print("Your final score is:", score, "/ 10")
